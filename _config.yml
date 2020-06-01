@@ -82,7 +82,7 @@ deploy:
   repo: 
     # github: git@github.com:honjun/honjun.github.io.git
     # github: https://github.com/honjun/honjun.github.io.git
-    github: https://autisticzero.github.io/maple/
+    github: https://github.com/AutisticZero/maple.git
   branch: master
 
 # backup
